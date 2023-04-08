@@ -16,7 +16,7 @@ const Navigation = () => {
     )}
     {ctx.isLoggedIn && (
       <li>
-        <a href="/">Admin</a>
+        <a href="">Admin</a>
       </li>
     )}
     {ctx.isLoggedIn && (
